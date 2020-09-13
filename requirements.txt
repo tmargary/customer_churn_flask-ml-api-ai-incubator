@@ -5,7 +5,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib
 MarkupSafe==1.1.1
-mkl_fft==1.1.0
+mkl_fft
 mkl_random==1.1.1
 mkl_service==2.3.0
 numpy
